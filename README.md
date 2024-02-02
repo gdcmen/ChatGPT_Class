@@ -8,7 +8,8 @@ This repository contains all of my assignments and projects for the ChatGPT clas
 ## Structure
 
 - `Assignment1/`: Introduction to ChatGPT: HelloWorldTryout.py "Can I have a list of product names, that Steve Jobs would come up with, for a pair of shoes that can fit any foot size?"
-- `Assignment2/`: Generate a python file in ChatGPT 3.5 to demonstrate the Fibonacci function. Execute the file from the command line and make sure it works using the following calculator https://www.calculatorsoup.com/calculators/discretemathematics/fibonacci-calculator.php
+- `Assignment2/`: Generate a Python file in ChatGPT 3.5 to demonstrate the Fibonacci function. Execute the file from the command line and make sure it works using the following calculator https://www.calculatorsoup.com/calculators/discretemathematics/fibonacci-calculator.php
+- `Assignment3/`: Create a Python file that uses OpenAI's API to generate vegetarian recipes. The recipe instructions should be step-by-step and it should also tell you the cooking time.
 - ...
 
 ## How to Use
