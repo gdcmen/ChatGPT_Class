@@ -43,5 +43,4 @@ def process_pdf(file_path):
     chunks = split_text_into_chunks(full_text)
     print(f"Total number of chunks: {len(chunks)}")
 
-# Replace 'your_pdf_path_here.pdf' with the actual path to your Dracula PDF
-process_pdf("Dracula+by+Bram+Stoker.pdf")
+process_pdf("Dracula_by_Bram_Stoker.pdf")
